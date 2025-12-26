@@ -1,7 +1,6 @@
 // Reverse a List of Strings in alphabetical order with java 8 streams
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
